@@ -1,5 +1,7 @@
 ## finalpro:Future Ready Talent Project By Kamparaju Ganesh
 
+Many blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company.
+
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
 Web Technologies used: HTML, CSS, JS.
