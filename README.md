@@ -20,6 +20,8 @@ Static Web App URL : https://polite-desert-04973f410.2.azurestaticapps.net
 
 App Services URL : https://newsblogs.azurewebsites.net
 
+My Website URL : https://polite-desert-04973f410.2.azurestaticapps.net
+
 ## Home
 ![Screenshot 2022-11-16 111113](https://user-images.githubusercontent.com/117159638/202094439-b3a64101-6ffc-4062-ab88-bf0519170d3f.jpg)
 ![Screenshot 2022-11-16 111143](https://user-images.githubusercontent.com/117159638/202094450-e9c8b88b-92d4-49e8-a7f6-ac7f910fa352.jpg)
